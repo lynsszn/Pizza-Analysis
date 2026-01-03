@@ -1,4 +1,4 @@
-# Pizza-Salez-Analysis
+# Pizza-Sales-Analysis
 I worked on my first project with HNG...
 
 🍕Pizza Sales Analysis 🍕
